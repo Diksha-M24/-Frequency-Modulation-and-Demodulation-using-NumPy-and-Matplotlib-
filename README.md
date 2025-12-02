@@ -86,14 +86,14 @@ plt.tight_layout()
 plt.show()
 ```
 # Tabulation:
-![WhatsApp Image 2025-11-26 at 19 15 08_87dcd81e](https://github.com/user-attachments/assets/c84d6b06-5f7f-4e12-ac12-ea180be04b92)
 
+![WhatsApp Image 2025-11-26 at 19 15 08_87dcd81e](https://github.com/user-attachments/assets/c84d6b06-5f7f-4e12-ac12-ea180be04b92)
 
 __Output:__
 
 <img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/c5c997e7-30a8-4df3-931b-5096c0e1be6a" />
 
-
 __Result:__
+
 ![WhatsApp Image 2025-11-26 at 19 15 54_15dd75e1](https://github.com/user-attachments/assets/3c6f113d-e013-4b94-a5d8-83f7428b098b)
 
